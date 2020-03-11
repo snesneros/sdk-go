@@ -1,4 +1,4 @@
-module github.com/go-vela/sdk-go
+module github.com/snesneros/sdk-go
 
 go 1.13
 
